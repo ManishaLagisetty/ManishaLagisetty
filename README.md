@@ -6,7 +6,7 @@
 
 💼 Experience: Data analyst with three plus years of experience in healthcare data analytics. Proficient in utilizing Python, SQL, Tableau, and ETL processes to extract, analyze, and visualize healthcare data, facilitating actionable insights.
 
-🔍 Skills: Proficient in Python, SQL, Machine Learning, Big Data Technologies, Tableau and AWS related concepts such as EC2, S3 and a few others.
+🔍 Skills: Proficient in Python, SQL, Machine Learning, Big Data Technologies, Tableau and AWS
 
 
 
