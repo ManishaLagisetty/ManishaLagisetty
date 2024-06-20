@@ -56,9 +56,4 @@ Feel free to connect with me on LinkedIn or explore my repositories to see some 
 
 ---
 
-### 🌟 Fun Fact
-I love turning data into actionable insights and crafting solutions that make a difference. When I'm not working with data, you might find me exploring the latest tech trends or indulging in painting and crafts.
-
----
-
 Thank you for visiting my GitHub profile! 😊
