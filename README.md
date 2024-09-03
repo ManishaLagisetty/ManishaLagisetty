@@ -7,7 +7,7 @@
 
 ---
 ### 💼 Professional Experience
-- **Programmer Analyst** with 3+ years of experience in the healthcare domain.
+- **Data Analyst** with 3+ years of experience in the healthcare domain.
 
 ---
 ### 🎓 Education
