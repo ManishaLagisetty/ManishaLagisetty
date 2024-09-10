@@ -23,15 +23,18 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
+#### **Machine Learning and Deep Learning:**
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) 
+![Classification](https://img.shields.io/badge/-Classification-0078D4?style=flat&logo=analytics&logoColor=white)
+![Regression](https://img.shields.io/badge/-Regression-28A745?style=flat&logo=linear-regression&logoColor=white)
+![NLP Models](https://img.shields.io/badge/-NLP%20Models-FF6F00?style=flat&logo=natural-language-processing&logoColor=white)
+
 #### **Data Analysis and Visualization:**
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=flat&logo=matplotlib&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
-#### **Machine Learning and Deep Learning:**
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) 
 
 #### **Cloud Platforms and Big Data Tools:**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
