@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Manisha 
 
-🎓 AI enthusiast currently pursuing a Master's degree in Data Analytics
+🎓 AI enthusiast currently pursuing a Master's degree in Data Science
 
 🔗 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishalagisetty/)
@@ -11,7 +11,7 @@
 
 ---
 ### 🎓 Education
-- **Master's in Data Analytics** - San Jose State University
+- **Master's in Data Science** - San Jose State University
 - **Bachelor's in Computer Science** - Gitam University
 
 ---
