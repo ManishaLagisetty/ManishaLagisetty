@@ -1,13 +1,13 @@
 ## 👋 Hi, I'm Manisha 
 
-🎓 AI enthusiast currently pursuing a Master's degree in Data Science
+🎓 AI enthusiast with a Master's Degree in Data Science and Data Analyst with 3+ years of experience. Skilled in Python, SQL, Machine learning, and Data visualization tools. Passionate about building data-driven solutions for real-world problem
 
 🔗 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishalagisetty/)
 
 ---
 ### 💼 Professional Experience
-- **Data Analyst** with 3+ years of experience in the healthcare domain.
+- **Data Analyst** with 3+ years of experience.
 
 ---
 ### 🎓 Education
